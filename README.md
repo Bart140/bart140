@@ -6,8 +6,8 @@ I am currently studying at the University of Warmia and Mazury in Olsztyn, speci
 
 | Project Name           | Development Period      | Description                                                                                          | Key Responsibilities                                    | Tech Stack                                              |
 |------------------------|--------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| House Prices Predictor | Nov 2024 – Jan 2025      | An ML-based tool for predicting house prices using a Kaggle dataset.                                | Data encoding, feature engineering, data cleaning        | Pandas, scikit-learn, Matplotlib, Seaborn              |
-| Skryba                 | Mar 2025 – Present       | A lightweight GitHub repository summarizer that extracts key insights and generates short summaries. | Repo parsing, prompting pipeline design                  | Chain-of-Thought, Decomposed Prompting, GitHub API, OpenAI/LLaMA/Gemini APIs, LangChain |
+| [House Prices Predictor🏠](https://github.com/knsiczarnamagia/wave3-house-prices) | Nov 2024 – Jan 2025      | An ML-based tool for predicting house prices using a Kaggle dataset.                                | Data encoding, feature engineering, data cleaning        | Pandas, scikit-learn, Matplotlib, Seaborn              |
+| [Skryba🧙‍♂️](https://github.com/knsiczarnamagia/wave4-skryba)                | Mar 2025 – Present       | A lightweight GitHub repository summarizer that extracts key insights and generates short summaries. | Repo parsing, prompting pipeline design                  | Chain-of-Thought, Decomposed Prompting, GitHub API, OpenAI/LLaMA/Gemini APIs, LangChain |
 
 <!--
 **Bart140/bart140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
